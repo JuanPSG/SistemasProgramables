@@ -68,10 +68,10 @@ ___
 4. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
    **EVIDENCIAS:**
  <p align="center"> 
-        <img alt="Logo" src="../img/Evidencias/1.3_E1.PNG" width= height=>
+        <img alt="Logo" src="../img/Evidencias/1.3_E1.png" width= height=>
     </p>
  <p align="center"> 
-        <img alt="Logo" src="../img/Evidencias/1.3_E2.PNG" width= height=>
+        <img alt="Logo" src="../img/Evidencias/1.3_E2.png" width= height=>
     </p>
      <p align="center"> 
         <img alt="Logo" src="../img/Evidencias/1.3_E3.png" width= height=>
