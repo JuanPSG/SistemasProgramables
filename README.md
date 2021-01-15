@@ -21,7 +21,7 @@ Actualmente me interesa aprender java, python y a desarrollar aplicaciones movil
 - [C1.2 Circuito Electrónico Básico](/blog/C1.2_JuanSandoval_JMM.md) 
 - [C1.3 Circuito electrónico divisor de tension](/blog/C1.3_JuanSandoval_JMM.md)
 - [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](/blog/C1.4_JuanSandoval_JMM.md)
-- [C1.5 Tipo de sensores de acuerdo con su uso aplicativo.](/blog/C1.5_JuanSandoval_JMM.md)
+- [C1.5 Tipo de sensores de acuerdo con su uso aplicativo.](/blog/C.1.5_JuanSandoval_JMM.md)
 
 **Equipo**
 - [A.1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor).](/blog/A.1.2_JuanSandoval_JMM.md)
