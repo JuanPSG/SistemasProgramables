@@ -31,7 +31,7 @@ Actualmente me interesa aprender java, python y a desarrollar aplicaciones movil
 **Individual**
 - [C2.1 Cuestionario Actuadores y su clasificacion](/blog/C2.1_JuanSandoval_JMM.md)
 - [C2.2 Cuestionario Actuadores Eléctricos](/blog/C2.2_JuanSandoval_JMM.md)
-- [C2.3 C2.3 Circuito temporizador 555](/blog/C2.3_JuanSandoval_JMM.md)
+- [C2.3 Circuito temporizador 555](/blog/C2.3_JuanSandoval_JMM.md)
 
 **Equipo**
 - [A2.1 Investigación sobre actuadores eléctricos](/blog/A.2.1_JuanSandoval_JMM.md)
