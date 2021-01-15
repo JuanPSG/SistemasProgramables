@@ -35,7 +35,7 @@ Actualmente me interesa aprender java, python y a desarrollar aplicaciones movil
 
 **Equipo**
 - [A2.1 Investigación sobre actuadores eléctricos](/blog/A.2.1_JuanSandoval_JMM.md)
-- [A2.2 Circuito temporizador 555 y motor eléctrico](/blog/A.2.2_JuanSandoval_JMM.md)
+- [A2.2 Circuito temporizador 555 y motor eléctrico](/blog/A.2_JuanSandoval_JMM.md)
 ## :orange_book: Unidad 3
 - [C3.1 Arduino IDE Salida Digital](/blog/C3.1_JuanSandoval_JMM.md)
 - [C3.2 Arduino IDE Entrada Digital e impresion serial](/blog/C3.2_JuanSandoval_JMM.md)
