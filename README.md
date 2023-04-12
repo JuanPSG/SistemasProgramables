@@ -10,7 +10,7 @@
 **Juan Pablo Sandoval Gorgonio**, número de control: **17212976**.  
 Estudio en el **Instituto Tecnológico de Tijuana**, estoy en ingenieria en sistemas computacionales y estoy cursando el septimo semestre.   
 Tengo conocimientos en C#, MySQL, HTML.  
-Actualmente me interesa aprender java, python y a desarrollar aplicaciones moviles. 
+Actualmente me interesa aprender java, python y desarrollar aplicaciones moviles. 
 
 ### Contenido 
 ## :green_book: Unidad 1
